@@ -124,7 +124,3 @@ The skill explicitly publishes its failure modes in `references/pitfalls.md`:
 ## License
 
 MIT — see `LICENSE`.
-
-## Author
-
-yeqian1989-creator
